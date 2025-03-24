@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portafolio
 # 🧑‍💻 Portafolio
 
@@ -19,6 +20,3 @@ Este es mi portafolio personal, desarrollado con Angular, en el que muestro una 
 ## 📫 Contacto
 
 Puedes contactarme vía [correo electrónico](elena.paredespacab@gmail.com) o visitar mi [LinkedIn](https://linkedin.com/in/tuusuario).
-
----
-
